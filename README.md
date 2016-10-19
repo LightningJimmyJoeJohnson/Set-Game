@@ -1,8 +1,8 @@
 # Set-Game
 Plays the set game for you
-I
 
-do not claim that this program is the most effeciant way of doing this.
+
+I do not claim that this program is the most effeciant way of doing this.
 
 
 Example of how to play this game- http://www.nytimes.com/crosswords/game/set/
